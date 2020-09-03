@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>responsive design hovedside</title>
+          <meta name="viewport" content="width=device=width, intitial-scale=1.0">
+          <link href="../css/eksern css til responsive design.css" rel="stylesheet" type="text/css">
+        
+
+	 </head>  
+	<body>
+
+          <h3>inline css</h3>
+          <h1>Denne nettsiden handler om responsive design</h1>
+
+          <img src="./ressurser/Responsive.JPG" width="500" height="600">
+
+          <p> "Responsive design" redirects here. For the computer-aided design approach, see responsive computer-aided design.
+               Not to be confused with Responsiveness.
+          </p>
+
+
+
+
+      <ul>
+          <li>Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. </li>
+          <li>Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD.</li>
+          <li>Content, design and performance are necessary across all devices to ensure usability and satisfaction.</li>
+      </ul>
+
+           <body style="background-color:yellow;">
+
+
+
+
+
+	</body>
+</html>	 
+
